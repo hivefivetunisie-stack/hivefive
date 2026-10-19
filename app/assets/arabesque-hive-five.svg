@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="fade" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="800" height="800" fill="url(#fade)"/></mask>
+    <g id="petal" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0-112C44-89 58-48 0 0C-58-48-44-89 0-112Z"/>
+      <path d="M0-78C25-63 33-34 0 0C-33-34-25-63 0-78Z"/>
+    </g>
+    <g id="rosette">
+      <g stroke="#ff5738" stroke-width="3.2">
+        <use href="#petal" transform="rotate(0)"/>
+        <use href="#petal" transform="rotate(45)"/>
+        <use href="#petal" transform="rotate(90)"/>
+        <use href="#petal" transform="rotate(135)"/>
+        <use href="#petal" transform="rotate(180)"/>
+        <use href="#petal" transform="rotate(225)"/>
+        <use href="#petal" transform="rotate(270)"/>
+        <use href="#petal" transform="rotate(315)"/>
+      </g>
+      <circle r="35" fill="none" stroke="#ff8738" stroke-width="2.4"/>
+      <circle r="9" fill="#ff5738"/>
+    </g>
+  </defs>
+  <g mask="url(#m)" opacity=".23">
+    <use href="#rosette" transform="translate(640 145) scale(1.05)"/>
+    <use href="#rosette" transform="translate(770 380) scale(.62)"/>
+    <use href="#rosette" transform="translate(485 420) scale(.48)"/>
+    <path d="M800 17C641 31 563 117 570 245C577 363 694 408 800 313" fill="none" stroke="#ff5738" stroke-width="4"/>
+    <path d="M800 73C684 85 626 145 630 235C634 316 715 345 800 280" fill="none" stroke="#ff8738" stroke-width="2.5"/>
+    <path d="M800 520C664 487 574 514 535 609C510 671 534 735 600 800" fill="none" stroke="#ff5738" stroke-width="4"/>
+    <path d="M800 579C700 552 626 571 599 640C579 691 600 745 650 800" fill="none" stroke="#ff8738" stroke-width="2.5"/>
+    <path d="M385 0C378 104 433 153 521 156C612 159 666 104 660 0" fill="none" stroke="#ff5738" stroke-width="3"/>
+    <g fill="#ff8738">
+      <circle cx="432" cy="106" r="6"/><circle cx="562" cy="282" r="5"/><circle cx="716" cy="535" r="7"/><circle cx="446" cy="584" r="4"/>
+    </g>
+  </g>
+</svg>

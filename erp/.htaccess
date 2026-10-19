@@ -1,0 +1,7 @@
+Options -Indexes
+DirectoryIndex index.php erp.html
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ erp.html [L,R=302]
+</IfModule>

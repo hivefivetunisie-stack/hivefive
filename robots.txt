@@ -1,0 +1,11 @@
+# robots.txt — HIVE FIVE
+# https://www.hivefivecoworking.com
+
+User-agent: *
+Allow: /
+
+# Ressources techniques inutiles à l'indexation
+Disallow: /*?*utm_
+Disallow: /*?*fbclid
+
+Sitemap: https://www.hivefivecoworking.com/sitemap.xml

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/services.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/services.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/services.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/international-companies.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/international-companies.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/international-companies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/international-companies.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/contact.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/contact.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/about.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/about.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/blog.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/index.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/services.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/services.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/services.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/international-companies.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/international-companies.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/international-companies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/international-companies.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/contact.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/contact.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/about.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/about.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hivefivecoworking.com/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hivefivecoworking.com/fr/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hivefivecoworking.com/blog.html"/>
+  </url>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/coworking-vs-traditional-office-tunis.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/how-to-set-up-remote-team-tunisia.html</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/why-belvedere-strategic-business-location-tunis.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/why-companies-choose-flexible-offices-tunis.html</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/start-business-team-tunisia-without-office.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/blog/hackathons-ai-workshops-hive-five.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/coworking-vs-bureau-traditionnel-tunis.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/monter-equipe-distante-tunisie.html</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/belvedere-emplacement-strategique-tunis.html</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/pourquoi-entreprises-choisissent-bureaux-flexibles-tunis.html</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/lancer-equipe-tunisie-sans-bureau-traditionnel.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hivefivecoworking.com/fr/blog/hackathons-ateliers-ia-hive-five.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,9 @@
+{
+  "name": "hive-five-propositions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Application locale de création de propositions commerciales pour Hive Five Coworking.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
