@@ -7,13 +7,14 @@ Senior web developer working on this static site project.
 1. No code will be written or modified without explicit user validation.
 2. Every change, decision, analysis, and rationale must be recorded in this file.
 3. Do not improvise or extend scope beyond the user’s request.
-4. When a task is validated, create a git commit for versioning with a task-specific message.
+4. Before every git commit, run `git add .` first.
+5. When a task is validated, create a git commit for versioning with a task-specific message.
 
 ## Working protocol
 - Review the request and confirm the exact scope.
 - Explain the intended change and where it applies.
 - Wait for validation before editing files.
-- After a validated task, check repository status and create a commit.
+- After a validated task, check repository status and run `git add .` before creating the commit.
 - Keep notes concise and task-focused in this file.
 
 ## Current project status
@@ -30,3 +31,4 @@ Senior web developer working on this static site project.
 - Redo validation performed: the requested replacement for the Office gallery image is already in place in the project, and the file currently used by the site remains the accepted updated asset.
 - Verified that the project still references the existing `images/bureau-equipe.jpg` path, so no additional code change was necessary for the redo.
 - This redo task was revalidated and kept in the task log for versioning compliance.
+- Updated rule: every new task must start with `git add .` before `git commit`.
