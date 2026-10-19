@@ -27,3 +27,6 @@ Senior web developer working on this static site project.
 - Verified repository cleanliness and latest commit.
 - Recorded working instructions in this guide.
 - Waiting for the user’s next validated task before making code changes.
+- Redo validation performed: the requested replacement for the Office gallery image is already in place in the project, and the file currently used by the site remains the accepted updated asset.
+- Verified that the project still references the existing `images/bureau-equipe.jpg` path, so no additional code change was necessary for the redo.
+- This redo task was revalidated and kept in the task log for versioning compliance.
